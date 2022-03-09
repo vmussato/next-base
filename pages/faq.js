@@ -5,7 +5,7 @@ export default function FAQpage () {
     <div>
       <h1>Alura Cases - FAQ</h1>
       <Link href="/">
-      Ir para o FAQ
+      Ir para a Home
       </Link>
     </div>
   )

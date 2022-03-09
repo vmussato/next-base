@@ -7,10 +7,9 @@ function Title({ children, as }) {
       <Tag>
         {children}
       </Tag>
-      <style jsx>{`
+      <style global jsx>{`
           ${Tag} {
             color: red;
-            font-family: sans-serif;
           }
       `}</style>
     </>
